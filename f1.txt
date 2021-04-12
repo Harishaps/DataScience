@@ -1,0 +1,4 @@
+Hello Eery One first text file 
+for testing
+created in Python Class
+to understand Vim file creation

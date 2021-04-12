@@ -1,0 +1,5 @@
+Hello Eery One first text file 
+for testing
+created in Python Class
+to understand Vim file creation
+THis file was created after copying contect from f1.txt
